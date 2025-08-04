@@ -1,0 +1,12 @@
+[project]
+name = "ai-solver"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "openai>=1.98.0",
+    "python-dotenv>=1.1.1",
+    "ruff>=0.12.7",
+]
